@@ -13,3 +13,7 @@ https://platform.openai.com/docs/libraries/python-library
 
 selenium chrome driver:
 https://www.youtube.com/watch?v=BnY4PZyL9cg # chrome-agent
+
+
+
+

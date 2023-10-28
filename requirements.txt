@@ -1,0 +1,10 @@
+
+things to download:
+- pip install selenium
+- pip install beautifulsoup4 selenium
+- pip install openai
+- pip install  dotenv #if having .env issues
+
+
+make a .env file with contents
+OPENAI_API_KEY=sk-CXQ........
