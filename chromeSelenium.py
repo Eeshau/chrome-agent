@@ -31,7 +31,7 @@ for btn in buttons:
 # Using Selenium, as before:
 try:
     element = WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.XPATH, "//button[text()='[Delivery]']"))
+        EC.presence_of_element_located((By.XPATH, "home-page-order-online"))
     )
     element.click()
 except:
